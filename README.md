@@ -6,7 +6,7 @@ pip install google
 
 We will be using the search() function from the googlesearch module.
 
-# Like 
+# Example
 
 ```
 search(query, tld='co.in', lang='en', num=10, start=0, stop=None, pause=2)
